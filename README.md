@@ -1,1 +1,1 @@
-# oracle-ONE-logic
+# Oracle Next Education - Programming logic
